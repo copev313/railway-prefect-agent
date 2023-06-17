@@ -1,0 +1,4 @@
+prefect==2.10.13
+boto3==1.26.*
+s3fs==2023.6.0
+prefect-github==0.1.5
